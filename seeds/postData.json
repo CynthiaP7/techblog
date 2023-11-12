@@ -1,0 +1,19 @@
+[
+    {
+        "title": "MVC and its uses",
+        "content": "Using models, controls and views",
+        "user_id": 2
+    },
+    {
+        "title": "Education and Artificial Intelligence",
+        "content": "Artificial Intelligence",
+        "user_id": 3
+    },
+    {
+        "title": "REACT and MERN",
+        "content": "REACT and software development",
+        "user_id": 1
+    }
+
+  
+]
